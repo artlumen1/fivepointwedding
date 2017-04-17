@@ -11,7 +11,10 @@ Test checking
 Commiting changes
 	
 Exploring git
+
 	
 Checking merge
 
+All changes committed
 </html>
+
