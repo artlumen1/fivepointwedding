@@ -9,6 +9,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 Test checking
 
 Commiting changes
+
+Checking changes from olther repo
 	
 
 </html>
