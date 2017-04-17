@@ -16,5 +16,7 @@ Exploring git
 Checking merge
 
 All changes committed
+
+Changes
 </html>
 
