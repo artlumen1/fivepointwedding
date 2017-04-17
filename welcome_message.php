@@ -12,6 +12,6 @@ Commiting changes
 
 Checking changes from olther repo
 	
-
+All changes
 </html>
 
