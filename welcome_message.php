@@ -18,5 +18,7 @@ Checking merge
 All changes committed
 
 Changes
+
+Commit and push to repository
 </html>
 
