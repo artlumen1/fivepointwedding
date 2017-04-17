@@ -10,6 +10,8 @@ Test checking
 
 Commiting changes
 	
-	Exploring git
+Exploring git
+	
+Checking merge
 
 </html>
