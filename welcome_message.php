@@ -10,15 +10,6 @@ Test checking
 
 Commiting changes
 	
-Exploring git
 
-	
-Checking merge
-
-All changes committed
-
-Changes
-
-Commit and push to repository
 </html>
 
