@@ -6,6 +6,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	
 </head>
 
-Test
+Test checking
 
 </html>
